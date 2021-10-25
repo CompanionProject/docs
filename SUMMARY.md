@@ -3,9 +3,9 @@
 * [Companion Documentation](README.md)
 * [How to help us](how-to-help-us.md)
 
-## Screenshare Tool
+## Tool
 
-* [Scan Reference](screenshare-tool/scan-reference.md)
+* [Scan Reference](tool/scan-reference.md)
 
 ## Server-Side AntiCheat
 
