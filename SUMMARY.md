@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Companion Documentation](README.md)
+* [Changelog](changelog.md)
 * [How to help us](how-to-help-us.md)
 
 ## Tool
