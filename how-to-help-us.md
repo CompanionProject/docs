@@ -24,5 +24,6 @@ In order to create a suggestion, head to our Discord and check the `#suggestions
 
 ## Becoming a Staff Member
 
-This one is actually kind of hard. We don't often look for new members because our team is mostly made up of people we trust a lot, and been engaged in many-year-long relationships with us.\
-However, you can check `#announcements` to check whenever we need a new Staff Member.
+This one is not really an option if you don't have any previous experience working with screensharing-related projects and/or plan on having a short-term relationship with Companion.
+
+We don't often look for new members because our team is mostly made up of people we trust a lot, and that has been engaged in many-year-long relationships with us.
