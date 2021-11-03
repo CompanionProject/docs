@@ -7,6 +7,7 @@
 ## Tool
 
 * [Scan Reference](tool/scan-reference.md)
+* [Sharing user records](tool/sharing-user-records.md)
 
 ## Server-Side AntiCheat
 
